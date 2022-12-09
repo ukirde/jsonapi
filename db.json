@@ -1,0 +1,322 @@
+{
+  "posts": [
+    {}
+  ],
+  "users": [
+    {
+      "fname": "Hanumant",
+      "lname": "Ukirde",
+      "email": "hanumantukirde419@gmail.com",
+      "Password": "Hanumant@123",
+      "Phone": "07666023855",
+      "gender": "male",
+      "Address": "panvel",
+      "city": "undargaon",
+      "State": "Maharashtra",
+      "pin": "413209",
+      "id": 3
+    },
+    {
+      "fname": "Sagar",
+      "lname": "Mote",
+      "email": "sagar123@gmail.com",
+      "Password": "Sagar@123",
+      "Phone": "09322452642",
+      "gender": "male",
+      "Address": "panvel",
+      "city": "Madha",
+      "State": "Goa",
+      "pin": "413209",
+      "id": 4
+    },
+    {
+      "fname": "Kiran",
+      "lname": "Lavate",
+      "email": "kiran123@gmail.com",
+      "Password": "Kiram@123",
+      "Phone": "098765432467",
+      "gender": "male",
+      "Address": "panvel",
+      "city": "panvel",
+      "State": "Maharashtra",
+      "pin": "413209",
+      "id": 5
+    },
+    {
+      "fname": "Kiran",
+      "lname": "Lavate",
+      "email": "kiran123@gmail.com",
+      "Password": "Kiram@123",
+      "Phone": "098765432467",
+      "gender": "male",
+      "Address": "panvel",
+      "city": "panvel",
+      "State": "Maharashtra",
+      "pin": "413209",
+      "id": 6
+    },
+    {
+      "fname": "Hanumant",
+      "lname": "Ukirde",
+      "email": "hanumantukirde419@gmail.com",
+      "Password": "Hanumant@123",
+      "Phone": "07666023855",
+      "gender": "male",
+      "Address": "panvel",
+      "city": "panvel",
+      "State": "Maharashtra",
+      "pin": "413209",
+      "id": 7
+    },
+    {
+      "fname": "Soham",
+      "lname": "Mundhe",
+      "email": "soham@0990@gmail.com",
+      "Password": "Soham@123",
+      "Phone": "0998767854453",
+      "gender": "male",
+      "Address": "Vadgaon",
+      "city": "Usmanabad",
+      "State": "Maharashtra",
+      "pin": "542124",
+      "id": 8
+    },
+    {
+      "fname": "Sagar",
+      "lname": "Mote",
+      "email": "sagar123@gmail.com",
+      "Password": "Chuh@890",
+      "Phone": "012323454545",
+      "gender": "female",
+      "Address": "undaregaon",
+      "city": "panvel",
+      "State": "Maharashtra",
+      "pin": "413209",
+      "id": 9
+    },
+    {
+      "fname": "dhruv",
+      "lname": "mundhe",
+      "email": "dhruvmundhe3445@gmail.com",
+      "Password": "Dhruvm22@",
+      "Phone": "08591544295",
+      "gender": "male",
+      "Address": "new panvel sukapur stop near balaji simpone ",
+      "city": "panvel",
+      "State": "Maharashtra",
+      "pin": "410206",
+      "id": 12
+    },
+    {
+      "fname": "Kiran",
+      "lname": "Lavate",
+      "email": "kiran123@gmail.com",
+      "Password": "Kiran@123",
+      "Phone": "",
+      "gender": "",
+      "Address": "panvel",
+      "city": "panvel",
+      "State": "Maharashtra",
+      "pin": "413209",
+      "id": 13
+    },
+    {
+      "fname": "",
+      "lname": "",
+      "email": "",
+      "Password": "",
+      "Phone": "",
+      "gender": "",
+      "Address": "",
+      "city": "",
+      "State": "",
+      "pin": "",
+      "id": 14
+    }
+  ],
+  "product": [
+    {
+      "categery": "Electronice",
+      "name": "BRUSH CUTTER/GRASS",
+      "price": "10500",
+      "img": "https://cdn.shopify.com/s/files/1/0722/2059/products/BC-360_280x.jpg?v=1607178416",
+      "id": "1"
+    },
+    {
+      "id": "2",
+      "categery": "Electronice",
+      "name": "WATER PUMP",
+      "price": "13900",
+      "img": "https://cdn.shopify.com/s/files/1/0722/2059/products/NPP-30_280x.jpg?v=1607176794"
+    },
+    {
+      "id": "3",
+      "categery": "Electronice",
+      "name": "CHAFF CUTTER",
+      "price": "30400",
+      "img": "https://cdn.shopify.com/s/files/1/0722/2059/products/Chaff-Cutter-3HP_9c27c9fc-98b3-4bac-8092-ab43dcb929f9_280x.jpg?v=1628648267"
+    },
+    {
+      "id": "4",
+      "categery": "Electronice",
+      "name": "PUMP SPRAYER",
+      "price": "1500",
+      "img": "https://cdn.shopify.com/s/files/1/0722/2059/products/2_7e619435-f0e8-4512-be7d-6c595de28bd6_280x.jpg?v=1631516768"
+    },
+    {
+      "id": "5",
+      "categery": "Herbicides",
+      "name": "Roundup",
+      "price": "250",
+      "img": "https://cdn.shopify.com/s/files/1/0722/2059/products/ROUNDUP-HERBICIDE_d3e7c96c-0119-46de-89e9-2a7550efb117_500x.jpg?v=1632322841"
+    },
+    {
+      "id": "6",
+      "categery": "Herbicides",
+      "name": "TATA METRICE",
+      "price": "150",
+      "img": "https://cdn.shopify.com/s/files/1/0722/2059/products/Tata_Rallis_METRI_Herbicide_280x.jpg?v=1601728520"
+    },
+    {
+      "id": "7",
+      "categery": "Herbicides",
+      "name": "GOAL",
+      "price": "230",
+      "img": "https://cdn.shopify.com/s/files/1/0722/2059/products/GOAL-HERBICIDE_280x.jpg?v=1601732196"
+    },
+    {
+      "id": "8",
+      "categery": "Growth Promoters",
+      "name": "NPK 19-19-19",
+      "price": "1600",
+      "img": "https://m.media-amazon.com/images/I/71CsQjWz4tL._AC_UL480_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": "9",
+      "categery": "Growth Promoters",
+      "name": "UREA",
+      "price": "290",
+      "img": "https://m.media-amazon.com/images/I/61BVMXL2MML._AC_UL480_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": "10",
+      "categery": "Growth Promoters",
+      "name": "10-26-26",
+      "price": "1800",
+      "img": "https://m.media-amazon.com/images/I/51PuLZBrCML._AC_UL480_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": "11",
+      "categery": "Fungicide",
+      "name": "AVTAR",
+      "price": "275",
+      "img": "https://cdn.shopify.com/s/files/1/0722/2059/products/INDOFIL-AVTAR-FUNGICIDE_280x.jpg?v=1601727745"
+    },
+    {
+      "id": "12",
+      "categery": "Fungicide",
+      "name": "FOLICUR",
+      "price": "688",
+      "img": "https://cdn.shopify.com/s/files/1/0722/2059/products/Bayer-Folicur-300px_280x.jpg?v=1620219413"
+    },
+    {
+      "id": "13",
+      "categery": "Fungicide",
+      "name": "AMISTAR",
+      "price": "1120",
+      "img": "https://cdn.shopify.com/s/files/1/0722/2059/products/AMISTAR-FUNGICIDE_280x.jpg?v=1601729694"
+    },
+    {
+      "id": "14",
+      "img": "https://m.media-amazon.com/images/I/A1QLAlXqxqL._SX679_.jpg",
+      "name": "Flower Seeds",
+      "price": "686",
+      "categery": "Seeds"
+    },
+    {
+      "id": "15",
+      "img": "https://m.media-amazon.com/images/I/61HMQRX3sbL.jpg",
+      "name": "Vegetable Seeds",
+      "price": "500",
+      "categery": "Seeds"
+    },
+    {
+      "id": "16",
+      "img": "https://media.istockphoto.com/id/671580278/photo/varieties-of-grains-seeds-and-raw-quino.jpg?s=612x612&w=0&k=20&c=ATTVKd0ls6JoL4AvGZ-K6bs_q8rlkJDEyzOLu0d2vrA=",
+      "name": "Grain Seeds",
+      "price": "586",
+      "categery": "Seeds"
+    },
+    {
+      "img": "https://media.istockphoto.com/id/1154896831/photo/assorted-nuts-and-dried-fruit-background-organic-food-in-wooden-bowls-top-view.jpg?s=612x612&w=0&k=20&c=g0Xn7NsDzP2b4w3MzG7tNp7D11irOr3BZc3GExgtQXI=",
+      "name": "Organic Seeds",
+      "price": "786",
+      "categery": "Seeds"
+    },
+    {
+      "id": "17",
+      "img": "https://media.istockphoto.com/id/1323672708/photo/grains-bulk-sacks.jpg?s=612x612&w=0&k=20&c=1c-CnPJNIzm4NRGxF4fHnWCwx8oq7dq2poes73thMV4=",
+      "name": "Grains Seeds",
+      "price": "686",
+      "categery": "Seeds"
+    },
+    {
+      "id": "18",
+      "img": "https://media.istockphoto.com/id/1269396094/photo/selective-focus-of-farmer-in-plaid-shirt-sowing-seeds-on-plowed-field.jpg?s=612x612&w=0&k=20&c=OeW2v6kr-SQ_q2bHgJDir3KnmAw8lxz_oASi-6XtKho=",
+      "name": "Farm Seeds",
+      "price": "686",
+      "categery": "Seeds"
+    },
+    {
+      "id": "19",
+      "img": "https://cdn.shopify.com/s/files/1/0722/2059/products/FMC_Coragen_280x.jpg?v=1652080951",
+      "name": "CORAGEN INSECTICIDE",
+      "price": "186",
+      "categery": "Insecticide"
+    },
+    {
+      "id": "20",
+      "img": "https://cdn.shopify.com/s/files/1/0722/2059/products/FMC_Benevia_500x.jpg?v=1652079369",
+      "name": "BENVIA INSECTICIDE",
+      "price": "1658",
+      "categery": "Insecticide"
+    },
+    {
+      "id": "21",
+      "img": "https://cdn.shopify.com/s/files/1/0722/2059/products/profex-super-insecticide-500x500_280x.jpg?v=1601733994",
+      "name": "PROFEX SUPER INSECTICID",
+      "price": "486",
+      "categery": "Insecticide"
+    },
+    {
+      "id": "22",
+      "img": "https://cdn.shopify.com/s/files/1/0722/2059/products/ROKET_280x.jpg?v=1666097076",
+      "name": "ROKET INSECTICIDE",
+      "price": "478",
+      "categery": "Insecticide"
+    },
+    {
+      "id": "23",
+      "img": "https://cdn.shopify.com/s/files/1/0722/2059/products/Sygenta-Ampligo_280x.jpg?v=1644241466",
+      "name": "AMPLIGO INSECTICIDE",
+      "price": "578",
+      "categery": "Insecticide"
+    }
+  ],
+  "cart": [
+    {
+      "id": "14",
+      "img": "https://m.media-amazon.com/images/I/A1QLAlXqxqL._SX679_.jpg",
+      "name": "Flower Seeds",
+      "price": "686",
+      "categery": "Seeds"
+    },
+    {
+      "id": "3",
+      "categery": "Electronice",
+      "name": "CHAFF CUTTER",
+      "price": "30400",
+      "img": "https://cdn.shopify.com/s/files/1/0722/2059/products/Chaff-Cutter-3HP_9c27c9fc-98b3-4bac-8092-ab43dcb929f9_280x.jpg?v=1628648267"
+    }
+  ]
+}
